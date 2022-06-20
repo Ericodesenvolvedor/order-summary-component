@@ -110,8 +110,9 @@ body > #card {
     border-radius: 50%;
 }
 
-#price-container > #plan-service h4 {
+#price-container > #plan-service h2 {
     color: var(--dark-blue);
+    font-size: 1.7rem;
     margin-bottom: .3rem;
 }
 
